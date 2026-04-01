@@ -8,3 +8,4 @@ interface to the ZLIB and DEFLATE compressed data formats.
 | version | 0.7.4                                                  |
 | systems | salza                                                  |
 |---------+--------------------------------------------------------|
+ 
